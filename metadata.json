@@ -1,0 +1,7 @@
+{
+  "name": "Smart Cuts - Premium Barber Shop",
+  "description": "High-converting website for Smart Cuts, a modern barber shop offering premium grooming experiences.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
